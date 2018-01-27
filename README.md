@@ -10,5 +10,5 @@ The data set I used is the [Adult data set](http://archive.ics.uci.edu/ml/datase
 - Matplotlib for data visualization
 - Scikit-learn package for machine learning
 
-## Detailed Project Description
-You can read more about the methodology and result [here](detailed_project_description.md)
+## Project Report
+You can read more about the methodology and result [here](report.md)
